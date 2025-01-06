@@ -1,7 +1,6 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://rishavchanda.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
@@ -59,5 +58,12 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "description": "Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.",
+  "main": "index.js",
+  "author": "mohamed sabry",
+  "license": "ISC",
+  "keywords": [
+    "Portfolio-frontend"
+  ]
 }

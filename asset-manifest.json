@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.58a0c615.css",
+    "main.js": "/My-Portfolio/static/js/main.152ae286.js",
+    "static/media/mohamed_sabry.jpg": "/My-Portfolio/static/media/mohamed_sabry.5a808b928748bb793b52.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.58a0c615.css.map": "/My-Portfolio/static/css/main.58a0c615.css.map",
+    "main.152ae286.js.map": "/My-Portfolio/static/js/main.152ae286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.152ae286.js"
+  ]
+}
